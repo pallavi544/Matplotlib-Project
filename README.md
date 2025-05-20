@@ -25,8 +25,7 @@ Practice creating clear, labeled, and styled plots using matplotlib’s API
 
 * Interactive Layout: Easy navigation through sections using scrolling; visually segmented blocks for code and results.
 
-**Technologies Used
-Tool/Library	Purpose
+**Technologies UsedTool/Library	Purpose:
 Python :	Programming language used to process data and create plots
 Jupyter Notebook :	Development environment for combining code, output, and markdown
 Matplotlib	: Library used to generate high-quality, customizable visualizations
