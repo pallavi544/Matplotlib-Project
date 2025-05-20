@@ -4,6 +4,7 @@ This project is a Jupyter Notebook exported as an HTML file that showcases data 
 By exporting the notebook to HTML (Project 1 (1) (1).html), it makes the content easy to share, view, and preserve, maintaining the structure, styling, code snippets, and output visuals in one interactive document.
 
 **Objective
+
 The aim of this project is to:
 
 Demonstrate basic to intermediate proficiency in data visualization using Python
@@ -26,6 +27,7 @@ Practice creating clear, labeled, and styled plots using matplotlib’s API
 * Interactive Layout: Easy navigation through sections using scrolling; visually segmented blocks for code and results.
 
 **Technologies UsedTool/Library	Purpose:
+
 Python :	Programming language used to process data and create plots
 Jupyter Notebook :	Development environment for combining code, output, and markdown
 Matplotlib	: Library used to generate high-quality, customizable visualizations
