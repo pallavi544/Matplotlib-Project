@@ -50,5 +50,21 @@ git clone https://github.com/pallavi544/Matplotlib-Project.git
 cd Matplotlib-Project
 
 ```
+3.Install required packages (if not already installed):
+
+```bash
+
+pip install matplotlib jupyter
+
+```
+
+4.Launch the notebook:
+
+```bash
+
+jupyter notebook "Project 1.ipynb"
+
+```
+
 
 
