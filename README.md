@@ -34,7 +34,7 @@ Each plot is designed to help users understand the purpose and structure of visu
 
 *Jupyter Notebook   :	Interactive development environment
 
-## Getting Started
+## How to Run Locally
 1.Clone the repository:
 
 ``` bash
