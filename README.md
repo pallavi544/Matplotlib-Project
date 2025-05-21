@@ -43,3 +43,12 @@ git clone https://github.com/pallavi544/Matplotlib-Project.git
 
 ```
 
+2.Navigate to the folder:
+
+```bash
+
+cd Matplotlib-Project
+
+```
+
+
