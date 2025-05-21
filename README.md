@@ -28,11 +28,11 @@ Each plot is designed to help users understand the purpose and structure of visu
 
 ## Technologies Used:
 
-*Python	Programming language
+*Python	              Programming language
 
-*Matplotlib	Visualization library
+*Matplotlib	          Visualization library
 
-*Jupyter Notebook	Interactive development environment
+*Jupyter Notebook   	Interactive development environment
 
 ## Getting Started
 1.Clone the repository:
