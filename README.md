@@ -2,38 +2,36 @@
 About the Project
 This project demonstrates the use of Matplotlib, a core Python visualization library, for creating a variety of data visualizations. It includes examples of common plot types and shows how to customize them using labels, legends, colors, and figure styles. The notebook serves as a beginner-friendly introduction to visual storytelling through code.
 
-🎯 Objectives
+## Objectives
 
-Practice using Matplotlib's pyplot interface
+*Practice using Matplotlib's pyplot interface
 
-Generate clear and meaningful visualizations
+*Generate clear and meaningful visualizations
 
-Apply customization options for professional-quality plots
+*Apply customization options for professional-quality plots
 
-Understand how visuals aid in interpreting data patterns
+*Understand how visuals aid in interpreting data patterns
 
-📊 Visuals Covered
+## Visuals Covered
 
-Line Plot
+*Line Plot
 
-Bar Chart
+*Bar Chart
 
-Pie Chart
+*Pie Chart
 
-Scatter Plot
+*Scatter Plot
 
-Histogram
+*Histogram
 
 Each plot is designed to help users understand the purpose and structure of visual representation in Python.
 
-🛠️ Technologies Used:
+## Technologies Used:
 
-Tool	Purpose
+*Python	Programming language
 
-Python	Programming language
+*Matplotlib	Visualization library
 
-Matplotlib	Visualization library
+*Jupyter Notebook	Interactive development environment
 
-Jupyter Notebook	Interactive development environment
-
-🚀 Getting Started
+## Getting Started
