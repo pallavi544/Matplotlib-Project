@@ -66,7 +66,7 @@ jupyter notebook "Project 1.ipynb"
 
 ```
 
-##View the Notebook Online
+## View the Notebook Online
 
 **[Click here to view the Jupyter Notebook online](https://github.com/pallavi544/Matplotlib-Project/blob/main/Project%201.ipynb)**  
 
