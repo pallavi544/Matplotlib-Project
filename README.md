@@ -35,3 +35,11 @@ Each plot is designed to help users understand the purpose and structure of visu
 *Jupyter Notebook	Interactive development environment
 
 ## Getting Started
+1.Clone the repository:
+
+``` bash
+
+git clone https://github.com/pallavi544/Matplotlib-Project.git
+
+```
+
